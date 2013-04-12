@@ -2,6 +2,8 @@
 
 Tiny stickers for the promotion of queer discourse within predominantly cisheteronormative spaces: each has a pride flag with a thematic icon on it in the middle, with text above and below it. These stickers are really tiny, so many fit on a single A4 adhesive sheet of paper, to be DIYed…
 
+A compiled PDF file is available [here](http://digitalwords.net/files/905-stickers.pdf); it is not as up-to-date as this repository.
+
 ## How to contribute
 
 Technically, using the regular Git way (clone, change, pull request) or via email (foo@digitalwords.net).
