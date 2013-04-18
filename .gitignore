@@ -32,5 +32,6 @@
 *.tdo
 mods/
 originals/
+notused/
 *.pdf
 *.fls
